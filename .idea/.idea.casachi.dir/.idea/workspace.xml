@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb4e7b03-1c70-459b-83ec-94a6f00b03c0" name="Changes" comment="5th" />
+    <list default="true" id="fb4e7b03-1c70-459b-83ec-94a6f00b03c0" name="Changes" comment="delete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="2st" />
+        <option name="rewordedMessage" value="2 nd" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="2a099790b5dc46fbd725c9017c56fc50ceca39f4" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -42,6 +52,7 @@
       <updated>1668071110168</updated>
       <workItem from="1668071117349" duration="3259000" />
       <workItem from="1668074680856" duration="135000" />
+      <workItem from="1668074867780" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="1 create project">
       <created>1668071133499</created>
@@ -85,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668074758935</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5th">
+      <created>1668074879786</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668074879786</updated>
+    </task>
+    <task id="LOCAL-00008" summary="delete">
+      <created>1668074963083</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668074963083</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +137,7 @@
     <MESSAGE value="3st" />
     <MESSAGE value="4th" />
     <MESSAGE value="5th" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th" />
+    <MESSAGE value="delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete" />
   </component>
 </project>
